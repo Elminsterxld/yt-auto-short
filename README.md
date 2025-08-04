@@ -1,14 +1,8 @@
 # yt-auto-short
-Youtube Auto Short Uploader
+# Youtube Auto Short Uploader
 
-# Download shorts videos in 15 Stars
 Automatic download:✅
 
-Automatic tag:✅
-
-Automatic description:✅
-
-# 30 Stars Shorts Videos Uploader
 Automatic tag:✅
 
 Automatic description:✅
